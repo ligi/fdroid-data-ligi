@@ -1,0 +1,21 @@
+Category:System
+License:GPLv3
+Web Site:https://github.com/ligi/SatoshiProof
+Source Code:https://github.com/ligi/SatoshiProof
+Issue Tracker:https://github.com/ligi/SatoshiProof/issues
+
+Summary: Satoshi Proof is your personal notary leveraging the power of the Bitcoin network to prove existence of text or images at a certain time.
+Description:
+Satoshi Proof is your personal notary leveraging the power of the Bitcoin network to prove existence of text or images at a certain time. First you select a picture or enter text - then the system checks if the existence is already proven and prints out the time if so. If not you get the option to prove the existence now by transferring one Satoshi to a calculated address. The money is going nowhere ( or to a random stranger ) - but it is so little that this should not matter. Note: it can take some time until the existence is signed by the network - especially with these small amounts ( you can increase the amount if you want faster signing ).
+.
+
+Repo Type:git
+Repo:https://github.com/ligi/SatoshiProof.git
+
+Build Version:0.4,4,e7e4494fe4665e34720f287189c384afa1652599,gradle=yes,subdir=SatoshiProof
+
+Auto Update Mode:None
+Update Check Mode:Tags
+Current Version:0.4
+Current Version Code:4
+

@@ -1,0 +1,21 @@
+Category:System
+License:GPLv3
+Web Site:https://github.com/ligi/AndroidTicketViewer
+Source Code:https://github.com/ligi/AndroidTicketViewer
+Issue Tracker:https://github.com/ligi/AndroidTicketViewer/issues
+
+Summary:
+Description:
+
+.
+
+Repo Type:git
+Repo:https://github.com/ligi/AndroidTicketViewer.git
+
+Build Version:1.8,18,d2aebaaf820fd2ae9924e1dffdbe0dd94a3a0259,prebuild=rm libs/*,gradle=noMapsnoAnalytics
+
+Auto Update Mode:None
+Update Check Mode:Tags
+Current Version:1.8
+Current Version Code:18
+

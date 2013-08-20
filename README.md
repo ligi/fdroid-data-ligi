@@ -1,0 +1,1 @@
+This is an fdroid-data-repo where I will put all my OpenSource Android projects. Cannot use the official repo right now as the gradle integration into fdroid on which @mvdan is working on is not yet official.
